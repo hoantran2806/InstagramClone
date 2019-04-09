@@ -14,7 +14,7 @@
                 android:id="@+id/tabs"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/design_default_color_primary"/>
+                android:background="@drawable/white_gray_border_top"/>
         </android.support.design.widget.AppBarLayout>
     </RelativeLayout>
 </merge>
